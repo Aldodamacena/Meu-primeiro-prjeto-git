@@ -1,10 +1,14 @@
 h1 {
-    color: brown;
-    background: none;
+    color:yellow;
+    background-color: red;
 }
 P{
-    color: #000;
+    color:blue;
+    font-size: 20px;
 }
 li{
-    color: aqua;
+    color: red;
+}
+ul{
+    color: brown;
 }
